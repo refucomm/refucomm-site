@@ -10,14 +10,6 @@ sections:
           - el
           - fa
           - ur
-      - name: Legal pathways flowcharts
-        type: pdf
-        languages:
-          - ar
-          - en
-          - el
-          - fa
-          - fr
       - name: Dublin III
         type: pdf
         languages:
