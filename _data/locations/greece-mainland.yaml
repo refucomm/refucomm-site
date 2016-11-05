@@ -171,6 +171,7 @@ sections:
           - fr
           - fa
           - ku
+          - ur
 
   - title: Relocation
     icon: fa fa-plane
