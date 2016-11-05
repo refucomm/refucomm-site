@@ -27,6 +27,10 @@ sections:
           - ku
           - pa
           - ur
+      - name: Information from Greek Asylum Service
+        type: pdf
+        languages:
+          - Multilingual
       - name: Information about the asylum Interview
         type: pdf
         languages:
