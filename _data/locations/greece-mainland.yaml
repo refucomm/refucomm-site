@@ -73,7 +73,6 @@ sections:
           - ar
           - en
           - fa
-          - ur
       - name: Full registration appointment list until end of April 2017
         type: pdf
         languages:
