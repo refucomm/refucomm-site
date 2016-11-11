@@ -40,15 +40,6 @@ sections:
         type: pdf
         languages:
           - multilingual
-      - name: Full registration
-        type: pdf
-        languages:
-          - ar
-          - en
-          - el
-          - el
-          - fa
-          - ur
       - name: Questions and Answers about full registration
         type: pdf
         languages:
